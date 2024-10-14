@@ -1,4 +1,4 @@
-# Programmation2-UPEC
+# Programmation Java S3 - Paris Saclay (L2 INFO)
 
 Ce dépôt contient les travaux dirigés/pratique réalisés en L2 Informatique à l'université Paris-Saclay.
 
